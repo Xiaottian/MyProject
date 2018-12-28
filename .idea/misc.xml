@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://F:/Code-DB/后台管理系统现用/renrenio-renren-security-master/renren-security/renren-api" />
+    <file type="web" url="file://F:/Code-DB/后台管理系统现用/renrenio-renren-security-v3.2.1/renren-security/renren-api" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="F:/Code-DB/后台管理系统现用/renrenio-renren-security-v3.2.1/renren-security/pom.xml" />
+        <option value="$PROJECT_DIR$/simple/pom.xml" />
+        <option value="$PROJECT_DIR$/bos/pom.xml" />
+        <option value="$PROJECT_DIR$/juc-sgg/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="F:/Code-DB/后台管理系统现用/renrenio-renren-security-master/renren-security/renren-admin/pom.xml" />
+        <option value="F:/Code-DB/后台管理系统现用/renrenio-renren-security-master/renren-security/renren-api/pom.xml" />
+        <option value="F:/Code-DB/后台管理系统现用/renrenio-renren-security-master/renren-security/renren-common/pom.xml" />
+        <option value="F:/Code-DB/后台管理系统现用/renrenio-renren-security-master/renren-security/renren-generator/pom.xml" />
+        <option value="F:/Code-DB/后台管理系统现用/renrenio-renren-security-v3.2.1/renren-security/pom.xml" />
+        <option value="F:/Code-DB/后台管理系统现用/renrenio-renren-security-v3.2.1/renren-security/renren-common/pom.xml" />
+        <option value="F:/Code-DB/后台管理系统现用/renrenio-renren-security-v3.2.1/renren-security/renren-generator/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+</project>

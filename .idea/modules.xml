@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyProject.iml" filepath="$PROJECT_DIR$/MyProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bos/bos.iml" filepath="$PROJECT_DIR$/bos/bos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/juc-sgg/juc-sgg.iml" filepath="$PROJECT_DIR$/juc-sgg/juc-sgg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple/simple.iml" filepath="$PROJECT_DIR$/simple/simple.iml" />
+    </modules>
+  </component>
+</project>

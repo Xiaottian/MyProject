@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="renren-api:war">
+    <output-path>F:/Code-DB/后台管理系统现用/renrenio-renren-security-master/renren-security/renren-api/target</output-path>
+    <root id="archive" name="renren-api.war">
+      <element id="artifact" artifact-name="renren-api:war exploded" />
+    </root>
+  </artifact>
+</component>

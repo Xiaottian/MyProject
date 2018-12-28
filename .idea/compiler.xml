@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bos" />
+        <module name="juc-sgg" />
+        <module name="renren-admin (2)" />
+        <module name="renren-api (1)" />
+        <module name="renren-api (2)" />
+        <module name="simple" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bos" target="1.8" />
+      <module name="juc-sgg" target="1.8" />
+      <module name="simple" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
